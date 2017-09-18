@@ -210,7 +210,7 @@ Write a response in which you examine the stated and/or unstated assumptions of 
 Assumptions:
 1. People rank water sports as "one" of their favorites, might be 10th or 12th. 
 2. No geography of river is given. Perhaps it's too turbulent or having reptiles and crocodiles in the water making it unsafe. 
-3. smell might be due to the industries and companies surrounding the river. Until stringent laws are enforced, the problem cannot be solved.
+3. Smell might be due to the industries and companies surrounding the river. Until stringent laws are enforced, the problem cannot be solved.
 4. There's no evidence that they can actually afford it. e.g. I'd like to afford Lamborghini but can't afford it.
 *************************************************************************************************************************************************************
 
@@ -219,6 +219,12 @@ The following appeared in a memorandum from the manager of WWAC radio station.
 "To reverse a decline in listener numbers, our owners have decided that WWAC must change from its current rock-music format. The decline has occurred despite population growth in our listening area, but that growth has resulted mainly from people moving here after their retirement. We must make listeners of these new residents. We could switch to a music format tailored to their tastes, but a continuing decline in local sales of recorded music suggests limited interest in music. Instead we should change to a news and talk format, a form of radio that is increasingly popular in our area."
 
 Write a response in which you discuss what specific evidence is needed to evaluate the argument and explain how the evidence would weaken or strengthen the argument.
+
+Assumptions:
+1. Author says there's been a decline in the number of people listening to music, however, he fails to show any numbers. The decline maybe 1% or 99%.
+2. There can be alternate explanations for decline in the sales, perhaps there are not enough stores in the city area, they're all far away in the outskirts
+and majority people being retired dont want to travel there. Also, the price might've went up, or the music might be available on internet. 
+3. There's no proof that the audience will like the talk format. Chances are they might hate this one too, so we should find out what they exactly like. 
 *************************************************************************************************************************************************************
 
 The following is a memorandum from the business manager of a television station.
@@ -226,11 +232,19 @@ The following is a memorandum from the business manager of a television station.
 "Over the past year, our late-night news program has devoted increased time to national news and less time to weather and local news. During this period, most of the complaints received from viewers were concerned with our station's coverage of weather and local news. In addition, local businesses that used to advertise during our late-night news program have canceled their advertising contracts with us. Therefore, in order to attract more viewers to our news programs and to avoid losing any further advertising revenues, we should expand our coverage of weather and local news on all our news programs."
 
 Write a response in which you examine the stated and/or unstated assumptions of the argument. Be sure to explain how the argument depends on these assumptions and what the implications are for the argument if the assumptions prove unwarranted.
+
+Assumptions:
+1. Increasing the local news and weather will bring back the viewers, perhaps they won't return even after taking the recommendation. 
+2. Advertisers cancelled the contract because of the reduction in the coverage of local news and weather. Perhaps the want to advertise elsewhere
+and it does not matter weather or not they cover local news. 
+
 *************************************************************************************************************************************************************
 
 Two years ago, radio station WCQP in Rockville decided to increase the number of call-in advice programs that it broadcast; since that time, its share of the radio audience in the Rockville listening area has increased significantly. Given WCQP's recent success with call-in advice programming, and citing a nationwide survey indicating that many radio listeners are quite interested in such programs, the station manager of KICK in Medway recommends that KICK include more call-in advice programs in an attempt to gain a larger audience share in its listening area.
 
 Write a response in which you discuss what questions would need to be answered in order to decide whether the recommendation and the argument on which it is based are reasonable. Be sure to explain how the answers to these questions would help to evaluate the recommendation.
+
+A
 *************************************************************************************************************************************************************
 
 The following is a memorandum from the business manager of a television station.
@@ -238,6 +252,11 @@ The following is a memorandum from the business manager of a television station.
 "Over the past year, our late-night news program has devoted increased time to national news and less time to weather and local news. During this time period, most of the complaints received from viewers were concerned with our station's coverage of weather and local news. In addition, local businesses that used to advertise during our late-night news program have just canceled their advertising contracts with us. Therefore, in order to attract more viewers to the program and to avoid losing any further advertising revenues, we should restore the time devoted to weather and local news to its former level."
 
 Write a response in which you discuss what specific evidence is needed to evaluate the argument and explain how the evidence would weaken or strengthen the argument.
+
+Assumptions:
+1. Increasing the local news and weather will bring back the viewers, perhaps they won't return even after taking the recommendation. 
+2. Advertisers cancelled the contract because of the reduction in the coverage of local news and weather. Perhaps the want to advertise elsewhere
+and it does not matter weather or not they cover local news. 
 *************************************************************************************************************************************************************
 
 The following appeared in an article written by Dr. Karp, an anthropologist.
@@ -245,11 +264,23 @@ The following appeared in an article written by Dr. Karp, an anthropologist.
 "Twenty years ago, Dr. Field, a noted anthropologist, visited the island of Tertia and concluded from his observations that children in Tertia were reared by an entire village rather than by their own biological parents. However, my recent interviews with children living in the group of islands that includes Tertia show that these children spend much more time talking about their biological parents than about other adults in the village. This research of mine proves that Dr. Field's conclusion about Tertian village culture is invalid and thus that the observation-centered approach to studying cultures is invalid as well. The interview-centered method that my team of graduate students is currently using in Tertia will establish a much more accurate understanding of child-rearing traditions there and in other island cultures."
 
 Write a response in which you discuss what specific evidence is needed to evaluate the argument and explain how the evidence would weaken or strengthen the argument.
+
+Assumptions:
+1. Child rearing process has remained same since the research was conducted (20 years ago). It might've changed in the interim.
+2. No statistical evidence, and no evidence on how the research was conducted. It might be possible that it was conducted poorly.
+3. More time talking about parents = more inclination towards them = the parents have reared the kid. 
 *************************************************************************************************************************************************************
 
 According to a recent report, cheating among college and university students is on the rise. However, Groveton College has successfully reduced student cheating by adopting an honor code, which calls for students to agree not to cheat in their academic endeavors and to notify a faculty member if they suspect that others have cheated. Groveton's honor code replaced a system in which teachers closely monitored students; under that system, teachers reported an average of thirty cases of cheating per year. In the first year the honor code was in place, students reported twenty-one cases of cheating; five years later, this figure had dropped to fourteen. Moreover, in a recent survey, a majority of Groveton students said that they would be less likely to cheat with an honor code in place than without. Thus, all colleges and universities should adopt honor codes similar to Groveton's in order to decrease cheating among students.
 
 Write a response in which you discuss what questions would need to be answered in order to decide whether the recommendation and the argument on which it is based are reasonable. Be sure to explain how the answers to these questions would help to evaluate the recommendation.
+
+Assumptions:
+1. The honor code might be succesful only in Groveton college, there's no successful application of the code elsewhere.
+2. There's no proof that the cases of cheating stopped because of the application of the honor code, perhaps it stopped because the student united and
+stopped reporting the cases of cheating, it they might've kept it to themselves as it affects the social status of a student. 
+3. The survey is dubious, they might've interviewed the students who are champions of the honor system. Else, the survey might not have been anonymous
+so the students might've deliberately lied out of the fear that they might be targeted later by their teachers.  
 *************************************************************************************************************************************************************
 
 The following appeared in an article written by Dr. Karp, an anthropologist.
@@ -257,6 +288,11 @@ The following appeared in an article written by Dr. Karp, an anthropologist.
 "Twenty years ago, Dr. Field, a noted anthropologist, visited the island of Tertia and concluded from his observations that children in Tertia were reared by an entire village rather than by their own biological parents. However, my recent interviews with children living in the group of islands that includes Tertia show that these children spend much more time talking about their biological parents than about other adults in the village. This research of mine proves that Dr. Field's conclusion about Tertian village culture is invalid and thus that the observation-centered approach to studying cultures is invalid as well. The interview-centered method that my team of graduate students is currently using in Tertia will establish a much more accurate understanding of child-rearing traditions there and in other island cultures."
 
 Write a response in which you examine the stated and/or unstated assumptions of the argument. Be sure to explain how the argument depends on these assumptions and what the implications are for the argument if the assumptions prove unwarranted.
+
+Assumptions:
+1. Child rearing process has remained same since the research was conducted (20 years ago). It might've changed in the interim.
+2. No statistical evidence, and no evidence on how the research was conducted. It might be possible that it was conducted poorly.
+3. More time talking about parents = more inclination towards them = the parents have reared the kid. 
 *************************************************************************************************************************************************************
 
 A recently issued twenty-year study on headaches suffered by the residents of Mentia investigated the possible therapeutic effect of consuming salicylates. Salicylates are members of the same chemical family as aspirin, a medicine used to treat headaches. Although many foods are naturally rich in salicylates, food-processing companies also add salicylates to foods as preservatives. The twenty-year study found a correlation between the rise in the commercial use of salicylates and a steady decline in the average number of headaches reported by study participants. At the time when the study concluded, food-processing companies had just discovered that salicylates can also be used as flavor additives for foods, and, as a result, many companies plan to do so. Based on these study results, some health experts predict that residents of Mentia will suffer even fewer headaches in the future.
