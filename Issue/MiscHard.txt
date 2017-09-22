@@ -46,28 +46,81 @@ In any field of endeavor, it is impossible to make a significant contribution wi
 Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.
 
 For:
-1. 
-2. 	
+1. Past achievements give confidence and prove it is possible to achieve if it has been already done. 
+2. Can also be influenced by the past failures. 
+
+Against:
+1. Imagination and creativity can be used to do something that's never done before. 
+
+Conclusion: Hard but not impossible. 
 **************************************************************************************************************************************************************
 Nations should pass laws to preserve any remaining wilderness areas in their natural state, even if these areas could be developed for economic gain.
 
 Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position.
+
+For: 
+1. Reduced wilderness areas will increase global warming.
+2. Will preserve the wild species and animals and preclude them from entering residential ares. 
+
+Against:
+1. If the financial condition of the nation is not stable then they should use the area for economic gains. 
+2. There are ways to protect the wilderness and have economic gains at the same time -> national parks.
+
+Conclusion:
+If the nation is not in crisis, then it is OK to pass laws to protect wilderness. 
 **************************************************************************************************************************************************************
 People's behavior is largely determined by forces not of their own making.
 
 Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.
+
+For:
+1. Behaviour depends on environment, the way you're raised etc. eg: terrorist
+2. people can be tricked into thinking eg: sales
+
+Against:
+1. Meditation can make you control your mind.
+2. You can purposely beleagure yourself by drugs and alcohol. 
+
+Conclusion:
+It is mostly not under control, but you can achieve significant control over it. 
 **************************************************************************************************************************************************************
 In any field of inquiry, the beginner is more likely than the expert to make important contributions.
 
 Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.
+
+For:
+1. Beginner will not have preconceived notions about things, so he will try nonetheless. Eg. field of music
+
+Against:
+1. Experts have more understanding than beginners since they have better understanding of the underlying concepts. eg. einstein, dijkstra
+
+Neutral:
+1. Abstract fields like painting, philosophy are equally likely to be disrupted by experts and beginners. 
 **************************************************************************************************************************************************************
 As we acquire more knowledge, things do not become more comprehensible, but more complex and mysterious.
 
 Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.
+
+For:
+1. Some fields have introduced more questions that they have answered. 
+
+Against:
+1. Understanding of things have got better as time has advanced, eg. Computer Science, AI, 
+
+Conclusion:
+Things have gotten worse not because of we have acquired more knowledge, but because we have scarcity of the same. 
 **************************************************************************************************************************************************************
-In any situation, progress requires discussion among people who have contrasting points of view.
+In any situation, progress requires discussion among people who have contrasting points of view.$$$	
 
 Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.
+
+For:
+1. 
+
+Against:
+
+Conclusion:
+
 **************************************************************************************************************************************************************
 It is primarily through our identification with social groups that we define ourselves.
 
